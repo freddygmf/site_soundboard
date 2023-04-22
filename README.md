@@ -6,7 +6,7 @@ This project was made following the steps provided by Alura in HTML and CSS cour
 # Mesa de Som
 </br>Olá, seja muito bem vindo ao meu projeto de mesa de som.
 
-![image]([https://github.com/freddygmf/site_zero/blob/main/assets/ggh.png](https://github.com/freddygmf/site_two_soundboard/blob/main/images/Sem%20t%C3%ADtulo.png))
+![image](https://github.com/freddygmf/site_two_soundboard/blob/main/images/Sem%20t%C3%ADtulo.png))
 
 ## Ferramentas utilizadas:
 
